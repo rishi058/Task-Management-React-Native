@@ -84,14 +84,3 @@ Taskify provides a user-friendly interface to manage tasks effectively. Here's a
 8. In categories menu, tap the "+" button to create a new category.
 9. Fill category name.
 10. Tap 'add category' button, and it will appear in the categories list.
-
-## License
-
-Taskify is released under the [MIT License](LICENSE).
-
-## Contact
-
-If you have any questions or suggestions regarding Taskify, feel free to reach out:
-
-- Email: [hutamatr@gmail.com](mailto:hutamatr@gmail.com)
-- GitHub: [hutamatr](https://github.com/hutamatr)
